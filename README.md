@@ -132,7 +132,7 @@ available   : July 2026
 └──────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────┐
-│  📡  Dept. of Telecommunications     Nov 2020 – Jan 2021  │
+│  📡  Software Engineering Intern Yubi Nov 2022 – May 2023│
 │      SDE Intern                                           │
 │                                                           │
 │  ▸ Java/Spring Boot signal monitoring + Firebase          │
