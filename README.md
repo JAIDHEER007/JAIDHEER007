@@ -126,9 +126,6 @@ Multi-user image generation platform with Google OAuth 2.0 authentication, gener
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaidheer007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=jaidheer007&theme=dark&hide_border=false" />
 </p>
 
